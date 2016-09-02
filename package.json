@@ -1,10 +1,10 @@
 {
   "name": "chrome_bookmark_to_md",
   "version": "1.0.0",
-  "description": "",
+  "description": "Convert Chrome generated bookmark HTML to Markdown",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "check": "eslint ."
   },
   "author": "Wesley Li",
   "license": "MIT",
