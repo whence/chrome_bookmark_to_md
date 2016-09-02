@@ -89,7 +89,7 @@
     },
     "cheerio": {
       "version": "0.22.0",
-      "from": "cheerio@latest",
+      "from": "cheerio@>=0.22.0 <0.23.0",
       "resolved": "https://registry.npmjs.org/cheerio/-/cheerio-0.22.0.tgz"
     },
     "circular-json": {
@@ -320,7 +320,7 @@
     },
     "get-stdin": {
       "version": "5.0.1",
-      "from": "get-stdin@latest",
+      "from": "get-stdin@>=5.0.1 <6.0.0",
       "resolved": "https://registry.npmjs.org/get-stdin/-/get-stdin-5.0.1.tgz"
     },
     "glob": {
